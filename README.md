@@ -7,9 +7,9 @@ Neste projeto, desenvolvemos pipelines de ETL para extrair dados de uma fonte de
 # Estrutura do Projeto
 O projeto está estruturado da seguinte forma:
 
-dags/: Contém os arquivos Python que definem os DAGs do Airflow;
-data/: Diretório para armazenar dados de entrada e saída;
-scripts/: Scripts auxiliares para execução e manipulação de dados;
+* dags/: Contém os arquivos Python que definem os DAGs do Airflow;
+* data/: Diretório para armazenar dados de entrada e saída;
+* scripts/: Scripts auxiliares para execução e manipulação de dados;
 
 Requisitos
 Python 3.x
