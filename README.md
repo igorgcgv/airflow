@@ -11,6 +11,6 @@ O projeto está estruturado da seguinte forma:
 * data/: Diretório para armazenar dados de entrada e saída;
 * scripts/: Scripts auxiliares para execução e manipulação de dados;
 
-Requisitos
-Python 3.x
-Apache Airflow
+* Requisitos
+* Python 3.x
+* Apache Airflow
