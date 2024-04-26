@@ -7,11 +7,10 @@ Neste projeto, desenvolvemos pipelines de ETL para extrair dados de uma fonte de
 # Estrutura do Projeto
 O projeto está estruturado da seguinte forma:
 
-dags/: Contém os arquivos Python que definem os DAGs do Airflow.
-plugins/: Contém os plugins do Airflow, como operadores personalizados, hooks e macros.
-data/: Diretório para armazenar dados de entrada e saída.
-scripts/: Scripts auxiliares para execução e manipulação de dados.
-README.md: Este arquivo, fornecendo uma visão geral do projeto e instruções de uso.
+dags/: Contém os arquivos Python que definem os DAGs do Airflow;
+data/: Diretório para armazenar dados de entrada e saída;
+scripts/: Scripts auxiliares para execução e manipulação de dados;
+
 Requisitos
 Python 3.x
 Apache Airflow
